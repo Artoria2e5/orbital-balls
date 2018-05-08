@@ -1,7 +1,7 @@
 orbital-balls
 =============
 
-orbital-balls is probably a solar system sandbox that runs on the Arduboy. It may or may not be a Game Jam 3 entry.
+orbital-balls is probably a solar system sandbox that runs on the Arduboy. It may or may not be a Game Jam 3 entry, depending on whether I will be able to put a renderer on it...
 
 orbital-balls uses patched conics, with major simplifications.
 
